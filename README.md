@@ -1,5 +1,5 @@
 # TestRepo - adaptable to our needs
-our own Zeitgeist communication archive - onboard them into our world
+our own Zeitgeist communication archive - onboard them into our world!
 
 It is structured like an [old school message board](https://github.com/NicholiNoah/TestRepo/issues) with organized file storage (synched online and local), [comment system](https://github.com/NicholiNoah/TestRepo/issues/1#issue-2036130111), tagging, and commit history... all designed to update between multiple users in different locations **working on the same files at the same time**.
 
